@@ -1,0 +1,5 @@
+#tupla
+
+tupla = [1, "one", "uno", "I"]
+
+print("La tupla de el numero 1 es: ", tupla)

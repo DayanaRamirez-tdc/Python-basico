@@ -1,0 +1,10 @@
+# Unión e intersección de conjuntos
+
+conjunto1 = {1, 2, 3}
+conjunto2 = {3, 4, 5}
+
+union = conjunto1 | conjunto2
+interseccion = conjunto1 & conjunto2
+
+print("La union de los dos conjuntos es: ", union)
+print("La interseccion de los dos conjuntos es: ", interseccion)

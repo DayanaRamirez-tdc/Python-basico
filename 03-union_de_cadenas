@@ -1,0 +1,6 @@
+#Union de una cadena
+
+cadena_1 = (input("Escoge un elemento: "))
+cadena_2 = (input("Escoge otro elemento: "))
+union = cadena_1 + " " + cadena_2
+print("La unión de la cadena es: ", union)
